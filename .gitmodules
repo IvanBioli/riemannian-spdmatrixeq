@@ -1,0 +1,3 @@
+[submodule "src/manopt"]
+	path = src/manopt
+	url = https://github.com/IvanBioli/manopt.git
