@@ -30,7 +30,7 @@ To replicate all experiments detailed in the Paper, follow these steps:
 
 1. Run the MATLAB script `src\PAPER_run_experiments.m`.
 
-2. Allow the script to execute fully. Ignore temporary plots generated and deleted during execution; relevant plots will be generated at the end. Results are saved in `.mat` files in the folder `src\results`. All plots are saved in the folder `report\figures` and can be produced after one complete execution by running the last section of `src\run_experiments.m.`
+2. Allow the script to execute fully. Ignore temporary plots generated and deleted during execution; relevant plots will be generated at the end. Results are saved in `.mat` files in the folder `src\results`. All plots are saved in the folder `report\figures` and can be produced after one complete execution by running the last section of `src\PAPER_run_experiments.m.`
 
 ## Authors
 - Ivan Bioli *(Università di Pavia)*
