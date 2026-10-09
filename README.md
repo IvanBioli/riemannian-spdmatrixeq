@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/IvanBioli/bioli_masters_thesis">
+  <a href="https://doi.org/10.1137/24M1680429">
     <img src="report/configs/EPFL_Logo_184X53.svg" alt="EPFL Logo" width="200" height="100" hspace="20">
     <img src="report/configs/Logo_UNIPI.svg" alt="UniPi Logo" width="200" height="100" hspace="20">
   </a>
